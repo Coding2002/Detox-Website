@@ -1,0 +1,121 @@
+.first li{
+    display: inline-block;
+    width: 20%;
+    font-size: 25px;
+    color:white;
+    
+    
+}
+.first{
+    background-color:rgb(132, 217, 221);
+    width:100%;
+    position: fixed;
+    z-index: 1;
+    top:0;
+    left:0;
+    text-decoration: none;
+}
+.second img{
+    width: 100%;
+    left:0;
+}
+nav ul{
+    white-space: nowrap;
+    
+    
+}
+
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+
+header{
+    text-decoration: none;
+    text-align: center;
+    background-color: rgba(153, 149, 151, 0.644);
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    color:antiquewhite;
+    font-size: 33px;
+}
+
+
+footer .copyright{
+    background: rgb(217, 233, 231);
+    text-align: center;
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+    padding: 10px;
+}
+h1{
+    background: rgb(61, 182, 152);
+    text-align: center;
+    color: white;
+}
+
+.user{
+    background: rgb(61, 153, 158);
+}
+.listen{
+    
+    background-image: url("images/volunteerpage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.listen h2{
+    background: rgb(146, 226, 215);
+    position: relative;
+    font-size: 25px;
+    color: rgb(73, 71, 71);
+    width: 100%;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+.listen a{
+    text-decoration: none;
+    color:rgb(91, 117, 115)
+}
+.logo{
+    position: relative;
+    height: 200px;
+    width:50px;
+    top: -100px;
+    z-index: 2;
+
+}
+.user{
+        background-image: url("images/userimage.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        text-align: center;
+
+}
+.daily{
+    
+    background-image: url("images/daily.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+.us {
+    
+    font-size: 20px;
+    color: rgb(111, 167, 161);
+    background-image: url("images/about.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.us p{
+    text-decoration: underline;
+}
+.us h2{
+    text-decoration: underline;
+}
